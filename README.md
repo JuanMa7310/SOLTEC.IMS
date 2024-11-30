@@ -1,4 +1,4 @@
-# SOLTEC.<Module>
+# SOLTEC.IMS
 
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
